@@ -23,3 +23,15 @@ Tasks:
 
 
 Good luck!
+
+
+---
+
+## API Key Configuration
+
+This application requires an API key to fetch exchange rates. Make sure to set the API key in your `application.properties`.
+
+### **1. Set API Key in `application.properties`**
+```properties
+exchange.api.key=your_exchange_api_key
+```
